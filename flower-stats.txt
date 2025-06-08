@@ -1,0 +1,3 @@
+Note:
+- equal weight for each flowers
+- 65% 1x, 35% 2x, 5% 4x

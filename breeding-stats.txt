@@ -1,0 +1,103 @@
+Note:
+Growing Flower
+1 Flower 60%
+2 Flowers 35%
+4 Flowers 5%
+
+Breeding Flower
+2 Flowers 35%
+3 Flowers 60%
+5 Flowers 5%
+
+---
+
+ROSE BREEDING
+Common x Common
+Red Rose x Pink Rose = 35% Red, 35% Pink, 30% Blue
+Red Rose x White Rose = 35% Red, 35% White, 30% Purple
+Pink Rose x White Rose = 35% Pink, 35% White, 30% Black
+Common x Uncommon
+Red Rose x Blue Rose = 30% Red, 30% Blue, 40% Purple
+Red Rose x Purple Rose = 30% Red, 30% Purple, 40% Black
+Red Rose x Black Rose = 30% Red, 30% Black, 40% Blue
+Pink Rose x Blue Rose = 30% Pink, 30% Blue, 20% Purple, 20% Black
+Pink Rose x Purple Rose = 30% Pink, 30% Purple, 20% Blue, 20% Black
+Pink Rose x Black Rose = 30% Pink, 30% Black, 20% Blue, 20% Purple
+White Rose x Blue Rose = 30% White, 30% Blue, 40% Black
+White Rose x Purple Rose = 30% White, 30% Purple, 40% Blue
+White Rose x Black Rose = 40% White, 40% Black, 20% Purple
+Uncommon x Uncommon
+Blue Rose x Purple Rose = 40% Blue, 40% Purple, 20% Black
+Blue Rose x Black Rose = 40% Blue, 40% Black, 20% Rainbow Rose
+Purple Rose x Black Rose = 40% Purple, 40% Black, 20% Gold Rose
+
+MARIGOLD BREEDING
+Common x Common
+Orange x Yellow = 35% Orange, 35% Yellow, 30% Pink
+Orange x White = 35% Orange, 35% White, 30% Striped
+Yellow x White = 35% Yellow, 35% White, 30% Pink
+Common x Uncommon
+Orange x Pink = 30% Orange, 30% Pink, 40% Striped
+Orange x Striped = 30% Orange, 30% Striped, 40% Pink
+Yellow x Pink = 30% Yellow, 30% Pink, 40% Striped
+Yellow x Striped = 30% Yellow, 30% Striped, 40% Pink
+White x Pink = 30% White, 30% Pink, 40% Striped
+White x Striped = 30% White, 30% Striped, 40% Pink
+Uncommon x Uncommon
+Pink Marigold x Striped Marigold = 40% Pink, 40% Striped, 10% Rainbow Marigold, 10% Gold Marigold
+
+HIBISCUS BREEDING
+Common x Common
+Red x Pink = 35% Red, 35% Pink, 30% Orange
+Red x Yellow = 35% Red, 35% Yellow, 30% Purple
+Red x White = 35% Red, 35% White, 30% Orange
+Pink x Yellow = 35% Pink, 35% Yellow, 30% Purple
+Pink x White = 35% Pink, 35% White, 30% Purple
+Yellow x White = 35% Yellow, 35% White, 30% Orange
+Common x Uncommon
+Red x Orange = 30% Red, 30% Orange, 40% Purple
+Red x Purple = 30% Red, 30% Purple, 40% White
+Red x White = 30% Red, 30% White, 40% Orange
+Pink x Orange = 30% Pink, 30% Orange, 40% Purple
+Pink x Purple = 30% Pink, 30% Purple, 40% White
+Pink x White = 30% Pink, 30% White, 40% Purple
+Yellow x Orange = 30% Yellow, 30% Orange, 40% White
+Yellow x Purple = 30% Yellow, 30% Purple, 40% Orange
+Yellow x White = 30% Yellow, 30% White, 40% Purple
+Uncommon x Uncommon
+Orange x Purple = 40% Orange, 40% Purple, 20% Green Hibiscus
+Orange x White = 40% Orange, 40% White, 20% Rainbow Hibiscus
+Purple x White = 40% Purple, 40% White, 20% Gold Hibiscus
+
+PLUMERIA BREEDING
+Common x Common
+White x Pink = 35% White, 35% Pink, 30% Yellow
+White x Red = 35% White, 35% Red, 30% Teal
+Pink x Red = 35% Pink, 35% Red, 30% Yellow
+Common x Uncommon
+White x Yellow = 30% White, 30% Yellow, 40% Teal
+White x Teal = 30% White, 30% Teal, 40% Yellow
+Pink x Yellow = 30% Pink, 30% Yellow, 40% Teal
+Pink x Teal = 30% Pink, 30% Teal, 40% Gold Plumeria
+Red x Yellow = 30% Red, 30% Yellow, 40% Teal
+Red x Teal = 30% Red, 30% Teal, 40% Yellow
+Uncommon x Uncommon
+Yellow x Teal = 40% Yellow, 40% Teal, 20% Rainbow Plumeria
+Teal x Pink = 40% Teal, 40% Pink, 20% Gold Plumeria
+
+ORCHID BREEDING
+Common x Common
+Purple x White = 35% Purple, 35% White, 30% Orange
+Purple x Yellow = 35% Purple, 35% Yellow, 30% Orange
+White x Yellow = 35% White, 35% Yellow, 30% Black
+Common x Uncommon
+Purple x Orange = 30% Purple, 30% Orange, 40% Black
+Purple x Black = 30% Purple, 30% Black, 40% Green
+Purple x Green = 30% Purple, 30% Green, 40% Orange
+White x Orange = 30% White, 30% Orange, 40% Black
+White x Black = 30% White, 30% Black, 40% Green
+Yellow x Orange = 30% Yellow, 30% Orange, 40% Green
+Uncommon x Uncommon
+Orange x Black = 40% Orange, 40% Black, 20% Red Orchid
+Black x Green = 40% Black, 40% Green, 20% Gold Orchid
+Orange x Green = 40% Orange, 40% Green, 20% Rainbow Orchid
